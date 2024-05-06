@@ -2,12 +2,6 @@
 
 # Big Data Analytics for Weather Pattern Analysis
 
-## Team Members
- - Sourva Ganesha (40228888)
- - Jay Dhanani (40232469)
- - Navjyot Singh (40231127)
- - Sindoora S Rao (40199155)
-
 ## Project Summary
 
 In recent years, the advent of big data technologies and artificial intelligence has revolutionized various domains, including meteorology. Our project, "Big Data Analytics for Weather Pattern Analysis," aims to leverage these advancements to enhance weather forecasting accuracy and provide deeper insights into climate trends.
